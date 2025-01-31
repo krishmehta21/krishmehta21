@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi, I’m @krishmehta21<br>👀 I’m interested in web development and becoming better at coding and developing skills.<br>🌱 I’m currently learning HTML/CSS/JavaScript.<br>💞️ I’m looking to collaborate on websites and projects.<br>📫 How to reach me: [21mehtak@gmail.com](mailto:21mehtak@gmail.com)
+Hi, I’m Krish Mehta (@krishmehta21)<br>
+🚀 Driven Computer Science Engineer passionate about software development, data analysis, and system optimization.<br>
+🔧 Proficient in coding, debugging, and delivering innovative solutions to complex problems.<br>
+🌱 Currently expanding my expertise in HTML, CSS, JavaScript, TensorFlow, Keras, Python, React, Flask, Django, and cloud technologies.<br>
+💡 Proven track record of delivering high-quality solutions within fast-paced environments.<br>
+🤝 Always eager to collaborate on exciting projects to grow and share knowledge.<br>
+How to reach me: [21mehtak@gmail.com](mailto:21mehtak@gmail.com)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisiskrish2003) 
